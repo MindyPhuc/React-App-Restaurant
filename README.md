@@ -1,3 +1,12 @@
+# React App
+
+This is a project I did when learning React:
+[x] Build a WEB API and host it on Heroku: https://guarded-mountain-04743.herokuapp.com
+[x] Build a React App using the service provided from the API
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
