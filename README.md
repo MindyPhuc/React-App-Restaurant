@@ -1,8 +1,8 @@
 # React App
 
 This is a project I did when learning React:
-[x] Build a WEB API and host it on Heroku: https://guarded-mountain-04743.herokuapp.com
-[x] Build a React App using the service provided from the API
+ * Build a WEB API and host it on Heroku: https://guarded-mountain-04743.herokuapp.com
+ * Build a React App using the service provided from the API
 
 
 
