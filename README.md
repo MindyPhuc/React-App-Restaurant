@@ -2,7 +2,7 @@
 
 This is a project I did when learning React:
  * Build a WEB API and host it on Heroku: https://guarded-mountain-04743.herokuapp.com
- * Build a React App using the service provided from the API
+ * Build a React App using the service provided from the API, link: https://zealous-kirch-f52ef2.netlify.app
 
 
 
